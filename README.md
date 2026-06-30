@@ -670,4 +670,4 @@ USGS data availability, metadata, parameter codes, and station records are contr
 
 ## Contact me
 
-Amir Haddadd (amir6haddadi@gmail.com)
+Amir Haddadi (amir6haddadi@gmail.com)
